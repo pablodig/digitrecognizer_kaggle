@@ -1,5 +1,6 @@
 # Digit Recognizer Competition from Kaggle
  
+ This is a modification of the notebook posted by YASSINE GHOUZAM (https://www.kaggle.com/code/yassineghouzam/introduction-to-cnn-keras-0-997-top-6/notebook).
  Here I used a 5 layers Sequential Convolutional Neural Network for digits recognition trained on the provided dataset from Kaggle (https://www.kaggle.com/competitions/digit-recognizer/data). I built it with Keras from Tensorflow which is very intuitive. 
  
  
